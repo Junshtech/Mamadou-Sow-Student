@@ -645,6 +645,9 @@ section {
 .courses .course-content {
   padding: 15px;
 }
+.tity{
+  font-size: 16px;
+}
 .courses .course-content h3 {
   font-weight: 700;
   font-size: 20px;
